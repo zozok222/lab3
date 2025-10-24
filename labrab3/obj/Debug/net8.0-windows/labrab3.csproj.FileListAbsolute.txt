@@ -1,0 +1,16 @@
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.Form1.resources
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.AssemblyInfo.cs
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\bin\Debug\net8.0-windows\labrab3.exe
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\bin\Debug\net8.0-windows\labrab3.deps.json
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\bin\Debug\net8.0-windows\labrab3.runtimeconfig.json
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\bin\Debug\net8.0-windows\labrab3.dll
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\bin\Debug\net8.0-windows\labrab3.pdb
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.dll
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\refint\labrab3.dll
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.pdb
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\labrab3.genruntimeconfig.cache
+C:\Users\Илья\Desktop\PP\labrab3\labrab3\obj\Debug\net8.0-windows\ref\labrab3.dll
